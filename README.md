@@ -1,1 +1,9 @@
-(preview)[https://cdn.discordapp.com/attachments/1555512740481736768/1555931397972303982/Screenshot_20261003-071542.jpg?backend=b2&ex=6ac25189&is=6ac10009&hm=f686ad7d014c118f2e2349ff6b8eb35ce9c5cbae751d85bdb99e7f9a292b7ca3&]
+<h1 align="center">Discord Evs Gen v3.0</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a35015f-482e-4549-8ca3-f2f311802099" width="900">
+</p>
+
+<p align="center">
+  Sequential Humanizer • Local IMAP Email Pool • No WebSocket Issues
+</p>
