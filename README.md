@@ -1,23 +1,4 @@
-<div align="center">
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1555512740481736768/1555931397972303982/Screenshot_20261003-071542.jpg?backend=b2&ex=6ac25189&is=6ac10009&hm=f686ad7d014c118f2e2349ff6b8eb35ce9c5cbae751d85bdb99e7f9a292b7ca3&" width="100%">
+</p>
 
-<h1 style="font-family: monospace; color: #ff00ff;">
-    WAVE
-</h1>
-
-<div style="
-    border: 2px solid #00d9ff;
-    padding: 20px;
-    font-family: monospace;
-    color: #00cfff;
-">
-    Discord Evs Gen v3.0 (Sequential Humanizer)<br>
-    Made by DarkMaster269
-</div>
-
-<br>
-
-<code style="color:#1515a8;">
-[i] Local IMAP Email Pool | Sequential Humanization | No WebSocket Issues
-</code>
-
-</div>
